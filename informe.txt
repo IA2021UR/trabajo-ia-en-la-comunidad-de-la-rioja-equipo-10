@@ -1,0 +1,9 @@
+Informe: 
+Calidad del trabajo base buena.
+Distintas ampliaciones:
+- Múltiples algoritmos.
+- Estudio de variantes del problema.
+- Aplicación.
+Calidad de la presentación buena.
+Nota sobre 10: 9
+Nota: 2.25
